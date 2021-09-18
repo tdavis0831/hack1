@@ -1,0 +1,25 @@
+body{
+    font-family: Cambria;
+    background-position: center;
+    background-size: auto;
+    background-color: limegreen;
+    clear: both;
+
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: .77rem;
+  font-weight: bold;
+  background-color: black;
+}
+
+.header a{
+    color: limegreen;
+    list-style:none;
+  display:inline-block;
+  margin-right:10px;
+    
+  }
