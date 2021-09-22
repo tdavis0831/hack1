@@ -2,7 +2,7 @@ body{
     font-family: Cambria;
     background-position: center;
     background-size: auto;
-    background-color: limegreen;
+    background-color: rgb(14, 150, 14);
     clear: both;
 
 }
@@ -17,9 +17,13 @@ body{
 }
 
 .header a{
-    color: limegreen;
+    color:rgb(14,150,14);
     list-style:none;
   display:inline-block;
   margin-right:10px;
+    
+  }
+
+  #learn-more{
     
   }
